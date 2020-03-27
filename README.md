@@ -25,9 +25,9 @@
 
 4. Após o carregamento do json, clique nas opção **Settings** do assistente e copie suas credenciais.
 
-    ![settings](readme_images/assistant_settings.PNG)
+    ![settings](readme_images/assistant_settings.png)
 
-    ![credentials](readme_images/credenciais_assistent.PNG)
+    ![credentials](readme_images/credenciais_assistent.png)
 
 5. Cole as credenciais do item **1** e **5** dentro do arquivo **.env** em seu projeto.
 
