@@ -1,0 +1,4075 @@
+{
+  "intents": [
+    {
+      "intent": "4.6.Quarentena_Senior",
+      "examples": [
+        {
+          "text": "Recomendação para idosos"
+        },
+        {
+          "text": "Governos recomendados para idosos"
+        },
+        {
+          "text": "O avô de 70 anos está em perigo."
+        },
+        {
+          "text": "Como está indo a quarentena para pessoas mais velhas?"
+        },
+        {
+          "text": "Quais são as medidas para os idosos"
+        },
+        {
+          "text": "Os idosos podem sair?"
+        },
+        {
+          "text": "Recomendações para pessoas por 70 anos"
+        },
+        {
+          "text": "Como os idosos vivem em quarentena?"
+        },
+        {
+          "text": "O que os idosos podem fazer?"
+        },
+        {
+          "text": "Como estão as pessoas mais velhas?"
+        },
+        {
+          "text": "Pessoas de idades podem sair?"
+        },
+        {
+          "text": "Meu avô quer sair"
+        },
+        {
+          "text": "Quarentena para idosos"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "1.8sobreVirus_pesquisa_no_brasil",
+      "examples": [
+        {
+          "text": "O orçamento é desbloqueado? "
+        },
+        {
+          "text": "Brasil busca @covid"
+        },
+        {
+          "text": "Como o Brasil está se preparando para o @covid19?"
+        },
+        {
+          "text": "Como a pesquisa em torno do vírus é organizada no Brasil?"
+        },
+        {
+          "text": "O que o Brasil está fazendo para resolver o problema @covid19?"
+        },
+        {
+          "text": "Quais são as iniciativas de pesquisa do Brasil?"
+        },
+        {
+          "text": "Quais são os esforços do Brasil?"
+        },
+        {
+          "text": "Qual é a pesquisa no Brasil em torno do COVID-19?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "14.1Economy_Impact",
+      "examples": [
+        {
+          "text": "Quais são as consequências econômicas para o Brasil em termos de PIB?"
+        },
+        {
+          "text": "Há consequências econômicas para o Brasil?"
+        },
+        {
+          "text": "Quais são as consequências econômicas para o Brasil?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "6.1travel_ability",
+      "examples": [
+        {
+          "text": "É possível viagens ao exterior durante o confinamento?"
+        },
+        {
+          "text": "Posso deixar o Brasil?"
+        },
+        {
+          "text": "Tem vôos para ir para o estrangeiro para contenção?"
+        },
+        {
+          "text": "Eu posso ir de férias no exterior?"
+        },
+        {
+          "text": "Eu posso ir para o estrangeiro durante o confinamento?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "3.info_tratamentos",
+      "examples": [
+        {
+          "text": "existem medicamentos para tratamento quando você tem COVID-19?"
+        },
+        {
+          "text": "O tratamento é genérico ou individual para cada pessoa?"
+        },
+        {
+          "text": "Então, qual é o tratamento para essa doença?"
+        },
+        {
+          "text": "Qual o tratamento que as pessoas infectadas com COVID-19 devem seguir?"
+        },
+        {
+          "text": "quais medicamentos tomar para @covid?"
+        },
+        {
+          "text": "Qual é o tratamento?"
+        },
+        {
+          "text": "Como posso me tratar?"
+        },
+        {
+          "text": "Qual é o propósito do tratamento @covid?"
+        },
+        {
+          "text": "Que tratamento para Coronavirus?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "4.5.Quarentena_ajuda_social",
+      "examples": [
+        {
+          "text": "Como trabalhar em casa?"
+        },
+        {
+          "text": "Trabalhar de casa"
+        },
+        {
+          "text": "Home office"
+        },
+        {
+          "text": "O que o home office"
+        },
+        {
+          "text": "Como trabalho quando estou em quarentena?"
+        },
+        {
+          "text": "Posso trabalhar em casa?"
+        },
+        {
+          "text": "Estou em quarentena e não posso ir trabalhar, o que devo fazer?"
+        },
+        {
+          "text": "Tenho trabalho"
+        },
+        {
+          "text": "Não consigo ir trabalhar"
+        },
+        {
+          "text": "Quanto tempo posso trablhar em casa?"
+        },
+        {
+          "text": "Como posso resolver meu trabalho quando estou em quarentena?"
+        },
+        {
+          "text": "Posso trabalhar em casa aos 40 anos?"
+        },
+        {
+          "text": "Eu posso trabalhar no escritório de casa."
+        },
+        {
+          "text": "Como ir trabalhar?"
+        },
+        {
+          "text": "Quanto tempo posso usar ajuda estatal?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "caso-suspeito",
+      "examples": [
+        {
+          "text": "Significado de caso suspeito"
+        },
+        {
+          "text": "Definição de caso suspeito"
+        },
+        {
+          "text": "O que é um caso suspeito"
+        },
+        {
+          "text": "caso suspeito"
+        },
+        {
+          "text": "Me informe o que é um caso suspeito"
+        }
+      ]
+    },
+    {
+      "intent": "4.9.Quarentena.escola",
+      "examples": [
+        {
+          "text": "Como ficam as aulas?"
+        },
+        {
+          "text": "Preciso ir para a escola?"
+        },
+        {
+          "text": "A educação continua?"
+        },
+        {
+          "text": "Como estão as escolas?"
+        },
+        {
+          "text": "Como posso continuar minhas aulas durante o confinamento?"
+        },
+        {
+          "text": "Tem escola aberta?"
+        },
+        {
+          "text": "Escola"
+        },
+        {
+          "text": "Posso ir para a aula?"
+        },
+        {
+          "text": "Como eu mantenho a escola?"
+        },
+        {
+          "text": "Posso ir para a escola durante o confinamento?"
+        },
+        {
+          "text": "Até que escolas e universidades estejam fechadas?"
+        },
+        {
+          "text": "Sou estudante de saúde. O que preciso fazer para ajudar?"
+        },
+        {
+          "text": "Eu tenho que ir para a escola."
+        },
+        {
+          "text": "A educação continua "
+        },
+        {
+          "text": "E a escola?"
+        },
+        {
+          "text": "As aulas virtuais serão organizadas?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "4.1.Quarentena_oque_e",
+      "examples": [
+        {
+          "text": "Há quanto tempo estou preso em casa?"
+        },
+        {
+          "text": "O que significa quarentena?"
+        },
+        {
+          "text": "E se eu não estiver em quarentena?"
+        },
+        {
+          "text": "O que estou fazendo em quarentena?"
+        },
+        {
+          "text": "As pessoas negam quarentena?"
+        },
+        {
+          "text": "Quanto tempo tenho que ficar em quarentena?"
+        },
+        {
+          "text": "O que exatamente significa quarentena interna?"
+        },
+        {
+          "text": "Há quanto tempo ele está em quarentena?"
+        },
+        {
+          "text": "O que posso fazer se estiver em quarentena?"
+        },
+        {
+          "text": "O que é quarentena?"
+        },
+        {
+          "text": "O que devo fazer se minha quarentena for ordenada?"
+        },
+        {
+          "text": "Até que ponto o Estado monitorará consistentemente o respeito da quarentena das pessoas que foram ordenadas a fazer?"
+        },
+        {
+          "text": "Meu colega não está em quarentena, o que devo fazer?"
+        },
+        {
+          "text": "Quem controla as pessoas em quarentena?"
+        },
+        {
+          "text": "Como faço para colocar o trabalho em quarentena?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "9.1contacts",
+      "examples": [
+        {
+          "text": "Como saber?"
+        },
+        {
+          "text": "Onde encontrar informações adicionais sobre @covid?"
+        },
+        {
+          "text": "Onde posso encontrar informações?"
+        },
+        {
+          "text": "Quem devo contactar @covid?"
+        },
+        {
+          "text": "Onde posso obter mais informações sobre @covid?"
+        },
+        {
+          "text": "Estou no estrangeiro, quem contactar?"
+        },
+        {
+          "text": "Tenho a suspeita de que eu posso chamar?"
+        },
+        {
+          "text": "Quem eu chamo?"
+        },
+        {
+          "text": "Onde você pedir ajuda?"
+        },
+        {
+          "text": "Quais são os números úteis?"
+        },
+        {
+          "text": "Quem devo chamar, se eu tenho sintomas?"
+        },
+        {
+          "text": "Tem algum número para entrar em contato?"
+        },
+        {
+          "text": "Quem eu contato?"
+        },
+        {
+          "text": "Quem pode me ligar para obter mais informações?"
+        },
+        {
+          "text": "Eu posso chamar meu médico?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "1.4sobreVirus_Crready",
+      "examples": [
+        {
+          "text": "Estamos fazendo o suficiente?"
+        },
+        {
+          "text": "Temos ação suficiente?"
+        },
+        {
+          "text": "Como o Brasil age contra o COVID-19?"
+        },
+        {
+          "text": "O governo está pronto para @covid"
+        },
+        {
+          "text": "Como o CR está preparado para espalhar a epidemia @covid?"
+        },
+        {
+          "text": "E as precauções tomadas pela Brasil contra @covid"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "1.7sobreVirus_futuro",
+      "examples": [
+        {
+          "text": "futuro @covid"
+        },
+        {
+          "text": "Haverá uma segunda onda de vírus que afetará os mais jovens?"
+        },
+        {
+          "text": "Como o COVID-19 evoluirá?"
+        },
+        {
+          "text": "Os jovens serão afetados? "
+        },
+        {
+          "text": "Qual população futura será afetada? "
+        },
+        {
+          "text": "Qual é o futuro @covid?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "4.9.Quarentena.alimentos",
+      "examples": [
+        {
+          "text": "Comprar comida"
+        },
+        {
+          "text": "Posso fazer compras no supermercado ou na mercearia?"
+        },
+        {
+          "text": "Eu teria que comer na próxima semana?"
+        },
+        {
+          "text": "As lojas estarão abastecendo?"
+        },
+        {
+          "text": "Quero sair para comprar"
+        },
+        {
+          "text": "Preciso comprar"
+        },
+        {
+          "text": "Tem loja aberta para compras?"
+        },
+        {
+          "text": "Posso fazer compras?"
+        },
+        {
+          "text": "Está acabando a comida"
+        },
+        {
+          "text": "Como faço compras?"
+        },
+        {
+          "text": "Quais são as horas em que eu vou ser capaz de fazer minhas compras?"
+        },
+        {
+          "text": "Posso fazer minhas compras enquanto estou preso?"
+        },
+        {
+          "text": "Os supermercados estarão abertos durante o confinamento?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "13.1.Businesssses_Law",
+      "examples": [
+        {
+          "text": "Posso abrir minha loja?"
+        },
+        {
+          "text": "Olá, estou tomando um café, e queria perguntar se poderia continuar na cafeteria?"
+        },
+        {
+          "text": "Pode continuar sendo um negócio aberto"
+        },
+        {
+          "text": "Posso ficar aberto?"
+        },
+        {
+          "text": "Minha loja ou instalação pode ficar aberta?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "12.4.About_haine",
+      "examples": [
+        {
+          "text": "Eu te odeio"
+        },
+        {
+          "text": "[NO DESAMBIGUATION]"
+        },
+        {
+          "text": "Eu odeio isso"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "12.1.About_WhoAreYou",
+      "examples": [
+        {
+          "text": "Olá, você é uma pessoa?"
+        },
+        {
+          "text": "Você é um robô?"
+        },
+        {
+          "text": "Com quem estou falando?"
+        },
+        {
+          "text": "Por favor, dê conselhos."
+        },
+        {
+          "text": "Com o que você pode me aconselhar"
+        },
+        {
+          "text": "Quem é você?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "1.2sobreVirus_Transmissao",
+      "examples": [
+        {
+          "text": "Onde estão os mais infectados"
+        },
+        {
+          "text": "Como transferir @covid"
+        },
+        {
+          "text": "Meu cachorro está infectado?"
+        },
+        {
+          "text": "Como posso ser infectado?"
+        },
+        {
+          "text": "Transmissão"
+        },
+        {
+          "text": "Como posso ficar doente com o @covid?"
+        },
+        {
+          "text": "Como eu pego?"
+        },
+        {
+          "text": "Há riscos associados a animais domésticos (criados e animais de estimação)?"
+        },
+        {
+          "text": "Número de pessoas infectadas"
+        },
+        {
+          "text": "Como @covid se espalha"
+        },
+        {
+          "text": "Como o vírus é transmitido?"
+        },
+        {
+          "text": "Como pego o vírus?"
+        },
+        {
+          "text": "A doença pode ser pega pela água?"
+        },
+        {
+          "text": "Como @covid doença é transmitida?"
+        },
+        {
+          "text": "Como o contágio se espalha."
+        },
+        {
+          "text": "Transferência de Coronavirus para outros"
+        },
+        {
+          "text": "Desde quando os humanos são capazes de infectar outras pessoas"
+        },
+        {
+          "text": "Meu gato está infectado?"
+        },
+        {
+          "text": "É possível infectar uma pessoa infectada no dia seguinte?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "general_examples",
+      "examples": [
+        {
+          "text": "Pode me dar exemplos de perguntas?"
+        },
+        {
+          "text": "O que posso perguntar?"
+        },
+        {
+          "text": "O que você sabe?"
+        },
+        {
+          "text": "Qual é a extensão do seu conhecimento"
+        },
+        {
+          "text": "O que você sabe responder?"
+        },
+        {
+          "text": "O que é que você sabe?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "4.9.Quarentena.tempo",
+      "examples": [
+        {
+          "text": "Que viagens são permitidas? "
+        },
+        {
+          "text": "Quais são as regras de contenção?"
+        },
+        {
+          "text": "O que é contenção? "
+        },
+        {
+          "text": "Posso fazer minhas compras? "
+        },
+        {
+          "text": "Quanto tempo vai durar a contenção? "
+        },
+        {
+          "text": "Posso dar uma volta? "
+        },
+        {
+          "text": "Você precisa de um certificado para sair? "
+        },
+        {
+          "text": "Quanto é a multa? "
+        },
+        {
+          "text": "Posso praticar esportes?"
+        },
+        {
+          "text": "É possível sair? "
+        },
+        {
+          "text": "Que viagens são proibidas? "
+        },
+        {
+          "text": "Posso viajar para cuidar dos meus filhos? "
+        },
+        {
+          "text": "Posso praticar esportes em grupo? "
+        },
+        {
+          "text": "Posso ir ao meu médico? "
+        },
+        {
+          "text": "Posso ajudar meus avós?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "1.5sobreVirus_Incubacao_Periodo",
+      "examples": [
+        {
+          "text": "A incubação do @covid?"
+        },
+        {
+          "text": "A duraçao da epidemia"
+        },
+        {
+          "text": "Quanto tempo @covid o período de incubação?"
+        },
+        {
+          "text": "Quanto tempo para incubar @covid"
+        },
+        {
+          "text": "A duração do período de incubação @covid"
+        },
+        {
+          "text": "Quanto tempo é o período de incubação?"
+        },
+        {
+          "text": "Quanto tempo é o período de incubação do vírus?"
+        },
+        {
+          "text": "incubação período"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "3.7.Tratamento_medico",
+      "examples": [
+        {
+          "text": "Tenho COVID-19. O que eu devo fazer?"
+        },
+        {
+          "text": "E se eu tiver o @covid19? "
+        },
+        {
+          "text": "Quando posso ligar para o SAMU?"
+        },
+        {
+          "text": "E se os sintomas piorarem com dificuldades respiratórias?"
+        },
+        {
+          "text": "O que devo fazer se tiver tosse e febre?"
+        },
+        {
+          "text": "O que devo fazer se sou um profissional e positivo desapontado?"
+        },
+        {
+          "text": "O que devo fazer se estou desapontado positivamente?"
+        },
+        {
+          "text": "O que devo fazer se for positivo para o Covid-19?"
+        },
+        {
+          "text": "Estou doente, o que devo fazer?"
+        },
+        {
+          "text": "Estou doente, devo ir ao médico?"
+        },
+        {
+          "text": "Estou com dificuldade em respirar. Posso ligar para o SAMU?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "1.6sobreVirus_mutacao",
+      "examples": [
+        {
+          "text": "O vírus pode sofrer mutação?"
+        },
+        {
+          "text": "mudança de vírus"
+        },
+        {
+          "text": "mutação @covid"
+        },
+        {
+          "text": "mutação"
+        },
+        {
+          "text": "O vírus muda com o tempo?"
+        },
+        {
+          "text": "O vírus sofreu mutação?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "general_ThankYou",
+      "examples": [
+        {
+          "text": "Obrigado"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "4.2.Quarentena_visitas",
+      "examples": [
+        {
+          "text": "Visitas são permitidas durante a quarentena?"
+        },
+        {
+          "text": "Visitar um parente"
+        },
+        {
+          "text": "Posso visitar um parente?"
+        },
+        {
+          "text": "Eles podem me visitar?"
+        },
+        {
+          "text": "Posso aceitar minha visita aos 40 anos?"
+        },
+        {
+          "text": "Alguém pode me colocar em quarentena?"
+        },
+        {
+          "text": "Minha família pode me visitar aos 40 anos?"
+        },
+        {
+          "text": "Tenho acesso a visitas durante a quarentena?"
+        },
+        {
+          "text": "Pode ter visitas?"
+        },
+        {
+          "text": "Visitas"
+        },
+        {
+          "text": "Receber visitas"
+        },
+        {
+          "text": "Queria visitar uma pessoa"
+        },
+        {
+          "text": "Qual é a distância segura quando alguém me traz uma compra?"
+        },
+        {
+          "text": "Visitar amigos"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "2.3.Prevencao_como_lavar_maos",
+      "examples": [
+        {
+          "text": "limpar mao"
+        },
+        {
+          "text": "Como lavo suas mãos corretamente?"
+        },
+        {
+          "text": "Lave as mãos efetivamente"
+        },
+        {
+          "text": "Limpeza eficiente e lavagem das mãos"
+        },
+        {
+          "text": "Como você lava as mãos corretamente?"
+        },
+        {
+          "text": "Quanto tempo tenho que lavar minhas mãos?"
+        },
+        {
+          "text": "Qual é a maneira mais eficaz de limpar as mãos?"
+        },
+        {
+          "text": "Como posso lavar minhas mãos?"
+        },
+        {
+          "text": "Como lavar as mãos efetivamente?"
+        },
+        {
+          "text": "como lavar as maos"
+        },
+        {
+          "text": "lavar as maos"
+        },
+        {
+          "text": "lavar a mao"
+        },
+        {
+          "text": "lavar mao"
+        },
+        {
+          "text": "mãos"
+        },
+        {
+          "text": "como desinfetar as maos?"
+        },
+        {
+          "text": "quanto tempo devo lavar a mao"
+        },
+        {
+          "text": "quanto tempo devo lavar as maos"
+        },
+        {
+          "text": "tempo de lavar as maos"
+        },
+        {
+          "text": "tempo de lavar a mao"
+        },
+        {
+          "text": "devo lavar as unhas"
+        },
+        {
+          "text": "como limpar as unhas"
+        },
+        {
+          "text": "como eu devo limpar minhas unhas?"
+        },
+        {
+          "text": "como eu devo lavar meus dedos"
+        },
+        {
+          "text": "como devo lavar meu dedo"
+        },
+        {
+          "text": "lavar os dedos"
+        },
+        {
+          "text": "lavar as unhas"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "1.3sobreVirus_GruposAltoRisco",
+      "examples": [
+        {
+          "text": "Quem está mais em risco"
+        },
+        {
+          "text": "Tenho câncer, sou ameaçado por coronavírus?"
+        },
+        {
+          "text": "Quem está em perigo"
+        },
+        {
+          "text": "O vírus é perigoso para a gravidez?"
+        },
+        {
+          "text": "Eu tenho câncer, sou uma pessoa em risco? "
+        },
+        {
+          "text": "Quais grupos estão em risco?"
+        },
+        {
+          "text": "Quais são os grupos de moradores mais vulneráveis?"
+        },
+        {
+          "text": "Quem é considerado uma pessoa em risco?"
+        },
+        {
+          "text": "Quem está em risco? "
+        },
+        {
+          "text": "Meus avós estão em risco? "
+        },
+        {
+          "text": "Quem são os mais ameaçados?"
+        },
+        {
+          "text": "Quero dizer, quantos anos eu estive em perigo?"
+        },
+        {
+          "text": "É perigoso?"
+        },
+        {
+          "text": "Sou uma pessoa em risco? "
+        },
+        {
+          "text": "Qual grupo está mais em risco?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "4.9.Quarentena.parartrabalho",
+      "examples": [
+        {
+          "text": "Tenho que cuidar dos meus filhos, mas trabalho"
+        },
+        {
+          "text": "Como posso ser preso para manter meus filhos presos?"
+        },
+        {
+          "text": "A escola dos meus filhos está fechada, como faço isso?"
+        },
+        {
+          "text": "Tenho que ficar com meus filhos, como faço?"
+        },
+        {
+          "text": "Qual é o procedimento para aproveitar essa paralisação do trabalho?"
+        },
+        {
+          "text": "Tenho filhos e trabalho"
+        },
+        {
+          "text": "Cuidar de filhos enquanto trabalho"
+        },
+        {
+          "text": "Como fica o trabalho se tenho filhos?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "2.1.Prevencao_info",
+      "examples": [
+        {
+          "text": "O que você precisa evitar, para que @covid não seja levado em conta."
+        },
+        {
+          "text": "como ficar ileso"
+        },
+        {
+          "text": "como nao contrair"
+        },
+        {
+          "text": "como nao pegar"
+        },
+        {
+          "text": "como nao pego?"
+        },
+        {
+          "text": "devo ficar em casa?"
+        },
+        {
+          "text": "devo evitar ir ao bar?"
+        },
+        {
+          "text": "quero me prevenir"
+        },
+        {
+          "text": "quero me proteger"
+        },
+        {
+          "text": "colocar as maos na boca, piora o caso?"
+        },
+        {
+          "text": "usar mascaras ajuda?"
+        },
+        {
+          "text": "ajuda ficar em ambientes mais quentes?"
+        },
+        {
+          "text": "ajuda tomar medicamentos sem receita?"
+        },
+        {
+          "text": "ajuda acender uma vela?"
+        },
+        {
+          "text": "Ajuda deixar o cogumelo no congelador?"
+        },
+        {
+          "text": "nao desejo ser infectado"
+        },
+        {
+          "text": "nao quero pegar o covid"
+        },
+        {
+          "text": "protecao contra o covid"
+        },
+        {
+          "text": "como nao ser infectado pelo covid"
+        },
+        {
+          "text": "como nao pegar covid"
+        },
+        {
+          "text": "como me proteger contra o covid?"
+        },
+        {
+          "text": "O que devo fazer para nao ficar doente?"
+        },
+        {
+          "text": "Devo desinfetar meu celular depois de chegar em casa"
+        },
+        {
+          "text": "Como posso evitar o contágio?"
+        },
+        {
+          "text": "como desinfetar comida?"
+        },
+        {
+          "text": "consumo de alho ajuda na prevençao?"
+        },
+        {
+          "text": "O que eu tenho que fazer para garantir que eu não fique doente @covid."
+        },
+        {
+          "text": "Como fazer o @covid "
+        },
+        {
+          "text": "Qual é a prevenção mais eficaz?"
+        },
+        {
+          "text": "Prevenção eficaz contra @covid?"
+        },
+        {
+          "text": "O que vai me ajudar na frente do @covid?"
+        },
+        {
+          "text": "Eu posso me defender bebendo álcool"
+        },
+        {
+          "text": "Como desinfetar pastéis desembrulhados"
+        },
+        {
+          "text": "Devo evitar as pessoas?"
+        },
+        {
+          "text": "Como eu me protejo?"
+        },
+        {
+          "text": "Quais são os gestos de barreira"
+        },
+        {
+          "text": "Como fazer gestos de barreira para limitar a propagação do vírus?"
+        },
+        {
+          "text": "Qual é a melhor prevenção?"
+        },
+        {
+          "text": "O que é uma boa prevenção?"
+        },
+        {
+          "text": "Posso ir ao sol?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "3.3.Tratamentos_quais_os_sintomas",
+      "examples": [
+        {
+          "text": "Quais são os sintomas típicos desta doença"
+        },
+        {
+          "text": "Temperatura da mãe"
+        },
+        {
+          "text": "Como sei que estou doente?"
+        },
+        {
+          "text": "Quais são os sintomas de @covid?"
+        },
+        {
+          "text": "Minha cabeça dói, eu tenho um @covid?"
+        },
+        {
+          "text": "Como saberei se tenho o @covid?"
+        },
+        {
+          "text": "Sou infértil? "
+        },
+        {
+          "text": "Estou com febre."
+        },
+        {
+          "text": "Eu me sinto mal."
+        },
+        {
+          "text": "Quais são os sintomas da doença?"
+        },
+        {
+          "text": "Tenho vírus corona? "
+        },
+        {
+          "text": "Se eu sentir sintomas da doença?"
+        },
+        {
+          "text": "Quais são os indicadores"
+        },
+        {
+          "text": "Estou com febre e tosse. Eu tenho @covid?"
+        },
+        {
+          "text": "Eu @covid?"
+        },
+        {
+          "text": "Dor de cabeça é a @covidflag?"
+        },
+        {
+          "text": "Tosse de humor"
+        },
+        {
+          "text": "Como distinguir entre resfriados normais."
+        },
+        {
+          "text": "O que fazer quando estou com @covid?"
+        },
+        {
+          "text": "Cansaço"
+        },
+        {
+          "text": "Tosse"
+        },
+        {
+          "text": "Sintomas"
+        },
+        {
+          "text": "Estou cansado de respirar."
+        },
+        {
+          "text": "O que reconhecemos o @covid?"
+        },
+        {
+          "text": "Não estou me sentindo bem."
+        },
+        {
+          "text": "Eu estou doente."
+        },
+        {
+          "text": "Temperatura"
+        },
+        {
+          "text": "Quais são os principais sintomas quando você tem COVID-19?"
+        },
+        {
+          "text": "O que @covid ter como sintomas?"
+        },
+        {
+          "text": "Tenho sintomas de estar doente."
+        },
+        {
+          "text": "Frio"
+        },
+        {
+          "text": "Acho que tenho @covid"
+        },
+        {
+          "text": "A erupção cutânea está @covid?"
+        },
+        {
+          "text": "Temo que terei um @covid"
+        },
+        {
+          "text": "eu tenho covid-19 se eu tenho dificuldades respiratórias e febre?"
+        },
+        {
+          "text": "Tosse irritante"
+        },
+        {
+          "text": "Pescoço curvo"
+        },
+        {
+          "text": "Eu tenho uma temperatura do que fazer"
+        },
+        {
+          "text": "Quais são os sintomas do Coronavirus?"
+        },
+        {
+          "text": "Como pode um homem saber que está infectado?"
+        },
+        {
+          "text": "Como o @covid se manifesta?"
+        },
+        {
+          "text": "Dificuldade respiratória"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "3.5.Tratamento_faltaDeAr",
+      "examples": [
+        {
+          "text": "Como reajo em caso de falta de ar?"
+        },
+        {
+          "text": "Como sei que estou com falta de ar?"
+        },
+        {
+          "text": "Dificuldade respiratória"
+        },
+        {
+          "text": "Um assovio durante a respiração é sinônimo de falta de ar?"
+        },
+        {
+          "text": "O que é falta de ar"
+        },
+        {
+          "text": "Não consigo respirar direito. O que eu devo fazer?"
+        },
+        {
+          "text": "Manifestando-se em falta de ar"
+        },
+        {
+          "text": "Um aumento na frequência de respiração significa falta de ar?"
+        },
+        {
+          "text": "Quando se trata de falta de ar"
+        },
+        {
+          "text": "O que é falta de ar e como reagir?"
+        },
+        {
+          "text": "Eu não consigo respirar. O que eu devo fazer?"
+        },
+        {
+          "text": "Quais são os sintomas da falta de ar"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "12.2.About_HowAreYou",
+      "examples": [
+        {
+          "text": "bem?"
+        },
+        {
+          "text": "Como tu vai?"
+        },
+        {
+          "text": "Como está indo?"
+        },
+        {
+          "text": "Como vai você?"
+        },
+        {
+          "text": "Como vai?"
+        },
+        {
+          "text": "tudo bem?"
+        },
+        {
+          "text": "beleza?"
+        },
+        {
+          "text": "tudo bem com você?"
+        },
+        {
+          "text": "td bem?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "3.4.tratamento_tratamento",
+      "examples": [
+        {
+          "text": "Onde estão os pontos de amostragem?"
+        },
+        {
+          "text": "A quem posso recorrer se eu quiser ser examinado para @covid?"
+        },
+        {
+          "text": "Quero testar @covid"
+        },
+        {
+          "text": "Preciso ser testado?"
+        },
+        {
+          "text": "Pode ser testado em @covid durante o período de incubação?"
+        },
+        {
+          "text": "Quem deve fazer o teste @covid19? "
+        },
+        {
+          "text": "Quero ser trazido para @covid."
+        },
+        {
+          "text": "Por que não testar mais todos os pacientes com sintomas?"
+        },
+        {
+          "text": "Como tratar o Coronavirus?"
+        },
+        {
+          "text": "Preciso colocar minhas mãos no @covid."
+        },
+        {
+          "text": "Onde fazer um teste?"
+        },
+        {
+          "text": "Qual é a estratégia das autoridades de saúde para os testes?"
+        },
+        {
+          "text": "@covd19 teste para quem"
+        },
+        {
+          "text": "Screening@covid19"
+        },
+        {
+          "text": "Tenho que ir ao pronto-socorro?"
+        },
+        {
+          "text": "Onde posso fazer o teste? "
+        },
+        {
+          "text": "O que @covid tem para indicadores"
+        },
+        {
+          "text": "Como acessar @covid?"
+        },
+        {
+          "text": "Como faço um teste?"
+        },
+        {
+          "text": "Preciso ver meu médico para fazer o teste? "
+        },
+        {
+          "text": "teste de @covid19"
+        },
+        {
+          "text": "Teste em @covid, quando é capaz de detectar a doença?"
+        },
+        {
+          "text": "Preciso de uma receita médica para fazer o teste? "
+        },
+        {
+          "text": "É necessário fazer o teste? "
+        },
+        {
+          "text": "É obrigatório ser examinado? "
+        },
+        {
+          "text": "Onde pedir coronavírus"
+        },
+        {
+          "text": "Posso me testar?"
+        },
+        {
+          "text": "Devo ir para o hospital?"
+        },
+        {
+          "text": "Deixe-se testar"
+        },
+        {
+          "text": "É possível detectar a doença mesmo durante o período de incubação?"
+        },
+        {
+          "text": "Posso me testar em casa?"
+        },
+        {
+          "text": "teste obrigatório? "
+        },
+        {
+          "text": "O teste @covid é capaz de detectar a doença mesmo durante o período de incubação?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "7.1globalcovid_spread",
+      "examples": [
+        {
+          "text": "Onde está @covideverywhere?"
+        },
+        {
+          "text": "Quantas pessoas ficaram doentes no mundo?"
+        },
+        {
+          "text": "Como saber o andamento do coronavirus no Mundo?"
+        },
+        {
+          "text": "O que é o progresso do coronavirus no Mundo?"
+        },
+        {
+          "text": "Onde posso encontrar informações sobre @covid no mundo?"
+        },
+        {
+          "text": "Quantas pessoas morreram no mundo?"
+        },
+        {
+          "text": "Quantas pessoas estão com coronavírus?"
+        },
+        {
+          "text": "Onde ela @covid infecção SARS-CoV-2 comprovado?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "4.8.Quarentena.Trabalho",
+      "examples": [
+        {
+          "text": "O teletrabalho é recomendado durante um período de confinamento?"
+        },
+        {
+          "text": "Posso ficar em casa para o teletrabalho?"
+        },
+        {
+          "text": "Não posso trabalhar teletrabalho."
+        },
+        {
+          "text": "teletrabalho eu não posso."
+        },
+        {
+          "text": "Posso começar a trabalhar de transporte se o teletransporte é impossível?"
+        },
+        {
+          "text": "Posso ir trabalhar?"
+        },
+        {
+          "text": "Posso ir trabalhar durante o confinamento?"
+        },
+        {
+          "text": "O teletrabalho é permitido durante o confinamento?"
+        },
+        {
+          "text": "Teletrabalho?"
+        },
+        {
+          "text": "E se o teletrabalho não for possível?"
+        },
+        {
+          "text": "Posso teletrabalho durante o confinamento?"
+        },
+        {
+          "text": "O teletrabalho é a maneira preferida de trabalhar durante o confinamento?"
+        },
+        {
+          "text": "O que meu empregador deve fazer se o teletransporte é impossível no meu setor?"
+        },
+        {
+          "text": "Posso trabalhar durante o confinamento?"
+        },
+        {
+          "text": "Que documentos eu preciso ter em minha posse se eu for trabalhar pelos meus meios?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "caso-provavel",
+      "examples": [
+        {
+          "text": "caso provável"
+        },
+        {
+          "text": "caso provavel"
+        },
+        {
+          "text": "Me informe o que é um caso provavél"
+        },
+        {
+          "text": "Definição de caso provável"
+        },
+        {
+          "text": "O que é um caso provável?"
+        },
+        {
+          "text": "Significado de caso provavel"
+        }
+      ]
+    },
+    {
+      "intent": "4.7.Quarentena_Elegibilidade",
+      "examples": [
+        {
+          "text": "Estava em um país de risco"
+        },
+        {
+          "text": "cheguei da China, devo fazer quarentena?"
+        },
+        {
+          "text": "tenho que fazer quarentena agora que cheguei da Itália?"
+        },
+        {
+          "text": "voltei do exterior agora, o que fazer?"
+        },
+        {
+          "text": "Quais países estão em quarentena para os quais"
+        },
+        {
+          "text": "O que devo fazer quando sou da China?"
+        },
+        {
+          "text": "Em que condições devo colocar em quarentena?"
+        },
+        {
+          "text": "Eu estava de férias na Itália, apartamento em quarentena"
+        },
+        {
+          "text": "que condições eu tenho que colocar em quarentena"
+        },
+        {
+          "text": "Tenho que entrar em quarentena quando voltar da China."
+        },
+        {
+          "text": "Que país está em quarentena?"
+        },
+        {
+          "text": "Quando devo colocá-los em quarentena?"
+        },
+        {
+          "text": "Quando posso ficar em quarentena?"
+        },
+        {
+          "text": "Estava na China"
+        },
+        {
+          "text": "acabei de voltar de um país de risco"
+        },
+        {
+          "text": "Voltei da Alemanha, tenho que entrar em quarentena?"
+        },
+        {
+          "text": "Eu volto do exterior em um país de alto risco, devo me colocar em quarentena?"
+        },
+        {
+          "text": "O que fazer quando voltei para a Itália?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "7.2globalcovid_pandémique",
+      "examples": [
+        {
+          "text": "E sobre a pandemia?"
+        },
+        {
+          "text": "Qual é a diferença entre uma pandemia e uma epidemia?"
+        },
+        {
+          "text": "OMS declarou o estado de pandemia no mundo. O que isso significa na prática?"
+        },
+        {
+          "text": "Por que falar com você de uma pandemia?"
+        },
+        {
+          "text": "O que é uma pandemia?"
+        },
+        {
+          "text": "Quais as dimensões de uma pandemia?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "caso-confirmado",
+      "examples": [
+        {
+          "text": "Definição de caso confirmado"
+        },
+        {
+          "text": "Caso confirmado"
+        },
+        {
+          "text": "Me informe o que é caso confirmado"
+        },
+        {
+          "text": "Significado de caso confirmado"
+        },
+        {
+          "text": "O que é um caso confirmado"
+        }
+      ]
+    },
+    {
+      "intent": "4.9.Quarentena.lazer",
+      "examples": [
+        {
+          "text": "Tem cinema aberto?"
+        },
+        {
+          "text": "Posso ver um jogo de futebol."
+        },
+        {
+          "text": "Posso ir ao cinema enquanto estou preso?"
+        },
+        {
+          "text": "Atividades culturais são possíveis durante o confinamento?"
+        },
+        {
+          "text": "Eu quero ir nadar"
+        },
+        {
+          "text": "Eu quero ir ao cinema. "
+        },
+        {
+          "text": "Posso fazer atividades culturais durante o confinamento?"
+        },
+        {
+          "text": "Posso ir ao cinema ou a um jogo, ir à piscina?"
+        },
+        {
+          "text": "Quero jogar bola"
+        },
+        {
+          "text": "Dá pra jogar futebol durante a quarentena?"
+        },
+        {
+          "text": "Estão tendo jogos nos estádios?"
+        },
+        {
+          "text": "Teatro"
+        },
+        {
+          "text": "Cinema"
+        },
+        {
+          "text": "Futebol"
+        },
+        {
+          "text": "Não tem futebol?"
+        },
+        {
+          "text": "Quero ir no teatro, posso?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "3.1.Tratamento_vacina",
+      "examples": [
+        {
+          "text": "Em quanto tempo podemos esperar ter acesso a medicamentos?"
+        },
+        {
+          "text": "Quanto será necessário para desenvolver uma vacina contra o Covid-19?"
+        },
+        {
+          "text": "Existe uma cura para esse vírus?"
+        },
+        {
+          "text": "Existe uma vacina contra @covid contágio?"
+        },
+        {
+          "text": "Qual país é o mais avançado na busca de uma vacina contra o Covid-19?"
+        },
+        {
+          "text": "A vacina é contra @covid?"
+        },
+        {
+          "text": "Existe uma vacina para Coronavirus?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "avaliacao-previa",
+      "examples": [
+        {
+          "text": "Posso fazer uma avaliação prévia"
+        },
+        {
+          "text": "avaliacao previa"
+        },
+        {
+          "text": "Preciso de uma avaliação prévia"
+        },
+        {
+          "text": "Quero me autodiagnosticar"
+        },
+        {
+          "text": "Posso me autodiagnosticar?"
+        },
+        {
+          "text": "Pode me ajudar com um autodiagnóstico?"
+        },
+        {
+          "text": "Me ajuda com meu autodiagnóstico"
+        },
+        {
+          "text": "auto-diagnóstico"
+        },
+        {
+          "text": "avaliação prévia"
+        },
+        {
+          "text": "Quero usar o autodiagnóstico"
+        },
+        {
+          "text": "Não estou me sentindo bem. Me ajuda com uma avaliação prévia?"
+        },
+        {
+          "text": "Não estou me sentindo bem. Me ajuda com um autodiagnóstico?"
+        },
+        {
+          "text": "auto diagnóstico"
+        },
+        {
+          "text": "Pode me ajudar com uma avaliação prévia?"
+        }
+      ]
+    },
+    {
+      "intent": "2.2.Prevencao_desinfeccao",
+      "examples": [
+        {
+          "text": "como me limpar?"
+        },
+        {
+          "text": "como limpar meus objetos"
+        },
+        {
+          "text": "como lavar meus objetos?"
+        },
+        {
+          "text": "quais produtos devo usar para limpeza?"
+        },
+        {
+          "text": "o que devo limpar?"
+        },
+        {
+          "text": "onde limpar parar nao pegar corona?"
+        },
+        {
+          "text": "limpeza"
+        },
+        {
+          "text": "Como desinfetar contra o COVID-19?"
+        },
+        {
+          "text": "Quais são os @covid desinfetantes?"
+        },
+        {
+          "text": "podemos comer doces sem sermos infectados com coronavírus?"
+        },
+        {
+          "text": "Quais produtos devem ser tomados para desinfetar a casa?"
+        },
+        {
+          "text": "Que superfícies devo desinfetar primeiro?"
+        },
+        {
+          "text": "Como posso me desinfetar?"
+        },
+        {
+          "text": "@product limpa"
+        },
+        {
+          "text": "o que usar para desinfetar os objetos"
+        },
+        {
+          "text": "o que usar para desinfetar a casa"
+        },
+        {
+          "text": "o que usar para desinetar as coisas"
+        },
+        {
+          "text": "o que comprar para limpar"
+        },
+        {
+          "text": "o que comprar para desinfetar"
+        },
+        {
+          "text": "o que usar para fazer a limpeza"
+        },
+        {
+          "text": "o que usar para limpar o carro"
+        },
+        {
+          "text": "o que usar para limpar as coisas"
+        },
+        {
+          "text": "o que usar para limpar a casa"
+        },
+        {
+          "text": "o que usar para me lavar"
+        },
+        {
+          "text": "o que usar para desinfetar"
+        },
+        {
+          "text": "o que usar para me limpar?"
+        },
+        {
+          "text": "e se eu usar vinagre, consigo me desinfetar?"
+        },
+        {
+          "text": "vinagre resolve?"
+        },
+        {
+          "text": "cachaça tambem limpa?"
+        },
+        {
+          "text": "só alcool resolve?"
+        },
+        {
+          "text": "produtos"
+        },
+        {
+          "text": "orientacao de desinfetacao"
+        },
+        {
+          "text": "orientacao de limpeza"
+        },
+        {
+          "text": "como desinfetar as coisas"
+        },
+        {
+          "text": "Sabão é suficiente para desinfetar?"
+        },
+        {
+          "text": "Desinfetando @product"
+        },
+        {
+          "text": "o que usar para limpar"
+        },
+        {
+          "text": "o que usar para matar o virus dos objetos"
+        },
+        {
+          "text": "que produto usar para limpar minhas coisas"
+        },
+        {
+          "text": "o que considerar antes da limpeza"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "6.3travel_stucked",
+      "examples": [
+        {
+          "text": "Se eu já estou no exterior, eu posso voltar para o Brasil durante o período de confinamento?"
+        },
+        {
+          "text": "Existe um vôo de volta para o Brasil?"
+        },
+        {
+          "text": "Eu estou preso no exterior, quem entrar em contato?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "comunicante-caso-confirmado",
+      "examples": [
+        {
+          "text": "Definição de comunicante de um caso confirmado?"
+        },
+        {
+          "text": "O que é o comunicante de um caso confirmado?"
+        },
+        {
+          "text": "comunicante de um caso confirmado"
+        },
+        {
+          "text": "O que significa comunicante de um caso confirmado?"
+        },
+        {
+          "text": "Me informe o que é um comunicante de um caso confirmado"
+        }
+      ]
+    },
+    {
+      "intent": "avaliacao-previa-sim-nao",
+      "examples": [
+        {
+          "text": "Sim"
+        },
+        {
+          "text": "Não"
+        }
+      ]
+    },
+    {
+      "intent": "2.3.Prevention_infeccao_contato",
+      "examples": [
+        {
+          "text": "Sou um profissional de saúde, o que faço? "
+        },
+        {
+          "text": "meu filho foi infectado, o que eu faço?"
+        },
+        {
+          "text": "estive perto de um caso suspeito, e agora?"
+        },
+        {
+          "text": "minha mae pegou covid, o que eu faço"
+        },
+        {
+          "text": "meu pai está com covide, e agora?"
+        },
+        {
+          "text": "meu irmao pegou covid, o que eu faço"
+        },
+        {
+          "text": "meu pai pegou coronavirus, o que eu faço?"
+        },
+        {
+          "text": "meu tio pegou coronavirus, o que eu faço"
+        },
+        {
+          "text": "minha tia pegou coronavirus, o que eu faço"
+        },
+        {
+          "text": "meu primo está com covid, o que eu faço"
+        },
+        {
+          "text": "Tenho um colega infectado o que fazer? "
+        },
+        {
+          "text": "o que eu faço se minha namorada estiver infectada?"
+        },
+        {
+          "text": "Estive em contato com alguém que tem sido infértil."
+        },
+        {
+          "text": "O que devo fazer se tive contato próximo com alguém com coronavírus?"
+        },
+        {
+          "text": "Conheço alguém que tem o @covid o que fazer? "
+        },
+        {
+          "text": "Conheço uma pessoa infectada?"
+        },
+        {
+          "text": "Estou infectado com covid-19 se alguém que eu conheço está infeccioso?"
+        },
+        {
+          "text": "Meu amigo foi infectado, e agora?"
+        },
+        {
+          "text": "meu marido foi infectado, o que eu faço"
+        },
+        {
+          "text": "o que eu faço se meu irmao estiver infectado"
+        },
+        {
+          "text": "o que eu faço se minha namorada estiver infectada"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "caso-notificado",
+      "examples": [
+        {
+          "text": "Significado de caso notificado"
+        },
+        {
+          "text": "Definição de caso notificado"
+        },
+        {
+          "text": "caso notificado"
+        },
+        {
+          "text": "O que é um caso notificado"
+        },
+        {
+          "text": "Me informe o que é um caso notificado"
+        }
+      ]
+    },
+    {
+      "intent": "general_Hello",
+      "examples": [
+        {
+          "text": "Oi"
+        },
+        {
+          "text": "Eai "
+        },
+        {
+          "text": "Bonjour"
+        },
+        {
+          "text": "Olá"
+        },
+        {
+          "text": "Eu"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "14.2Medecine_disruption",
+      "examples": [
+        {
+          "text": "Há risco de escassez de drogas?"
+        },
+        {
+          "text": "Há escassez de drogas?"
+        },
+        {
+          "text": "Há algum problema com o acesso ao paracetamol?"
+        },
+        {
+          "text": "Há problemas com o acesso a medicamentos?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "diagnostico",
+      "examples": [
+        {
+          "text": "Como é feito o diagnóstico do coronavírus?"
+        },
+        {
+          "text": "Diagnóstico Covid-19"
+        },
+        {
+          "text": "Diagnóstico coronavírus"
+        },
+        {
+          "text": "Como é feito o diagnóstico do COVID-19?"
+        },
+        {
+          "text": "Me explica como é feito o diagnóstico"
+        }
+      ]
+    },
+    {
+      "intent": "general_ByeBye",
+      "examples": [
+        {
+          "text": "Tchau"
+        },
+        {
+          "text": "Te vejo depois"
+        },
+        {
+          "text": "Até logo"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "caso-descartado",
+      "examples": [
+        {
+          "text": "Me informe o que é caso descartado"
+        },
+        {
+          "text": "caso descartado"
+        },
+        {
+          "text": "O que é caso descartado"
+        },
+        {
+          "text": "Definição de caso descartado"
+        },
+        {
+          "text": "Significado de caso descartado"
+        }
+      ]
+    },
+    {
+      "intent": "6.2travel_ambassades",
+      "examples": [
+        {
+          "text": "Quem contactar quando estou em uma área de risco"
+        },
+        {
+          "text": "Estou no estrangeiro, quem contactar?"
+        },
+        {
+          "text": "Estou no estrangeiro, a quem posso entrar em contato?"
+        },
+        {
+          "text": "Estou no exterior, como entrar em contato?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "surgimento",
+      "examples": [
+        {
+          "text": "quero saber como surgiu"
+        },
+        {
+          "text": "como ele surgiu?"
+        },
+        {
+          "text": "surgimento do coronavirus"
+        },
+        {
+          "text": "surgimento"
+        },
+        {
+          "text": "como surgiu o coronavirus ?"
+        },
+        {
+          "text": "como o virus surgiu"
+        },
+        {
+          "text": "como surgiu?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "2.4.Macara",
+      "examples": [
+        {
+          "text": "quem usa mascara nao pega covid?"
+        },
+        {
+          "text": "mascara de protecao"
+        },
+        {
+          "text": "Uma máscara pode me proteger do COVID-19?"
+        },
+        {
+          "text": "A máscara vai me proteger?"
+        },
+        {
+          "text": "Tenho que usar uma máscara?"
+        },
+        {
+          "text": "Uma máscara é suficiente para me proteger?"
+        },
+        {
+          "text": "Devo usar uma máscara?"
+        },
+        {
+          "text": "quando usar a mascara?"
+        },
+        {
+          "text": "quando apelar para a mascara de saude?"
+        },
+        {
+          "text": "quando fazer uso da mascara?"
+        },
+        {
+          "text": "quando usar mascara"
+        },
+        {
+          "text": "quero usar mascara"
+        },
+        {
+          "text": "amigo de mascara"
+        },
+        {
+          "text": "pessoas de mascara"
+        },
+        {
+          "text": "usar mascara no metro"
+        },
+        {
+          "text": "usar mascara no metrô"
+        },
+        {
+          "text": "usar mascaras em publico"
+        },
+        {
+          "text": "mascara de cirurgia"
+        },
+        {
+          "text": "preciso usar mascara sem saber se estou infectado?"
+        },
+        {
+          "text": "usar a mascara é obrigatorio?"
+        },
+        {
+          "text": "eu devo usar a mascara"
+        },
+        {
+          "text": "eu preciso usar a mascara"
+        },
+        {
+          "text": "quero comprar uma mascara"
+        },
+        {
+          "text": "preciso d euma mascara para me proteger?"
+        },
+        {
+          "text": "e se eu usasse uma mascara?"
+        },
+        {
+          "text": "preciso muito de uma mascara?"
+        },
+        {
+          "text": "a mascara é fundamental?"
+        },
+        {
+          "text": "usar a mascara me protege contra o covid?"
+        },
+        {
+          "text": "quem estiver de mascara nao pega covid?"
+        },
+        {
+          "text": "quem usar mascara esta seguro?"
+        },
+        {
+          "text": "quem estiver de mascara estara imune?"
+        },
+        {
+          "text": "máscaras cirurgicas"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "1.1sobreVirus_Oque_e",
+      "examples": [
+        {
+          "text": "Já ouvi falar de Covid-19, o que é?"
+        },
+        {
+          "text": "Qual é a diferença entre @covid e coronavírus."
+        },
+        {
+          "text": "O que é coronavirus?"
+        },
+        {
+          "text": "É @covid doença?"
+        },
+        {
+          "text": "Qual é o @covid?"
+        },
+        {
+          "text": "O que é coronavírus ou COVID-19?"
+        },
+        {
+          "text": "O que é o covid?"
+        },
+        {
+          "text": "O @covid é o mesmo que a gripe"
+        },
+        {
+          "text": "Qual é o @covid ?"
+        },
+        {
+          "text": "O que é @covid"
+        },
+        {
+          "text": "O que @covid é?"
+        },
+        {
+          "text": "Qual é a diferença entre @covid e a gripe"
+        },
+        {
+          "text": "Qual é @covid"
+        },
+        {
+          "text": "Onde o @covid detectou?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "4.4.Quarentena_vivendo_com_outros",
+      "examples": [
+        {
+          "text": "Quarentena em família"
+        },
+        {
+          "text": "Moro com alguém"
+        },
+        {
+          "text": "E se eu moro em uma casa com mais pessoas, como é colocado em quarentena neste caso?"
+        },
+        {
+          "text": "Como fico em quarentena enquanto estou com minha família?"
+        },
+        {
+          "text": "Estou no apartamento com meu amigo e estou em quarentena, e agora?"
+        },
+        {
+          "text": "Como posso colocar quarentena quando vivo com outras pessoas?"
+        },
+        {
+          "text": "Eu vivo com minha família como quarentena?"
+        },
+        {
+          "text": "A mulher está em quarentena, eu tenho que ficar em quarentena?"
+        },
+        {
+          "text": "Mamãe colega de quarto e eu estou em quarentena."
+        },
+        {
+          "text": "O membro da família está em quarentena, isso também se aplica a mim?"
+        },
+        {
+          "text": "Tenho família, como fazer?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "9.2contacts_malentendant",
+      "examples": [
+        {
+          "text": "Eu sou surdo, como posso obter informações?"
+        },
+        {
+          "text": "Eu tenho uma perda auditiva, qual é o procedimento?"
+        },
+        {
+          "text": "Estou com dificuldade de audição, como posso obter informações?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "4.3.Quarentena_vivendo_sozinho",
+      "examples": [
+        {
+          "text": "Eu moro sozinho"
+        },
+        {
+          "text": "Estou sozinho"
+        },
+        {
+          "text": "Moro sozinho, posso sair?"
+        },
+        {
+          "text": "Não tenho ninguém em casa"
+        },
+        {
+          "text": "Posso pedir uma refeição quando estiver em quarentena?"
+        },
+        {
+          "text": "Não faço ideia do que fazer?"
+        },
+        {
+          "text": "Posso fazer recados quando estiver em quarentena?"
+        },
+        {
+          "text": "Uma excursão é permitida por um período de meio tempo?"
+        },
+        {
+          "text": "E se eu me referisse a mim mesmo e estivesse em quarentena?"
+        },
+        {
+          "text": "O que posso fazer se estiver em quarentena sozinho?"
+        },
+        {
+          "text": "Posso sair durante a quarentena?"
+        },
+        {
+          "text": "Moro sozinho"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "caso-excluido",
+      "examples": [
+        {
+          "text": "O que é um caso excluído"
+        },
+        {
+          "text": "caso excluído"
+        },
+        {
+          "text": "caso excluido"
+        },
+        {
+          "text": "Significado de caso excluído"
+        },
+        {
+          "text": "Me informe o que é caso excluído"
+        },
+        {
+          "text": "Definição de caso excluído"
+        }
+      ]
+    },
+    {
+      "intent": "3.6.Tratamento_fatores_agravantes",
+      "examples": [
+        {
+          "text": "Devo tomar ibuprofeno? "
+        },
+        {
+          "text": "Quais são os agravantes?"
+        },
+        {
+          "text": "Devo tomar anti-inflamatórios?"
+        },
+        {
+          "text": "Devo tomar cortisona? "
+        },
+        {
+          "text": "Algumas drogas são proibidas? "
+        },
+        {
+          "text": "Tomar anti-inflamatórios pode piorar a infecção?"
+        },
+        {
+          "text": "O que pode piorar a infecção?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "3.8.Tratamento_testar_quem",
+      "examples": [
+        {
+          "text": "Como vai o teste? "
+        },
+        {
+          "text": "Quem deve ser testado?"
+        },
+        {
+          "text": "Eu acessaos os critérios de triagem, onde posso ser testado?"
+        },
+        {
+          "text": "Como faço para fazer o teste?"
+        },
+        {
+          "text": "Eu tenho que fazer o teste"
+        },
+        {
+          "text": "Meu médico prescreveu um teste."
+        },
+        {
+          "text": "Eu sou uma das pessoas em risco"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "afirmativo-negativo",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Sim",
+          "synonyms": [
+            "Claro",
+            "Obvio",
+            "Com certeza",
+            "sim",
+            "Quero",
+            "Acho que sim",
+            "Provavelmente",
+            "Afirmativo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Não",
+          "synonyms": [
+            "nao",
+            "Negativo",
+            "Acho que não",
+            "Nunca",
+            "não"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "covid",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Coronavirus",
+          "synonyms": [
+            "COVID19",
+            "COVID-19",
+            "Corona",
+            "SRAS-19",
+            "Corona Virus"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Sim-ProblemaRespiratório",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1585155677399",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_3_1585155809754"
+      },
+      "conditions": "@afirmativo-negativo:Sim",
+      "dialog_node": "node_8_1585155758419",
+      "previous_sibling": "node_2_1585155747687"
+    },
+    {
+      "type": "standard",
+      "title": "Não-ProblemaRespiratório",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com as definições da Secretaria de Vigilância em Saúde do Ministério da Saúde, você é um caso excluído.  Fique atento aos sintomas e continue adotando as medidas gerais de prevenção e etiqueta respiratória."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1585155677399",
+      "conditions": "@afirmativo-negativo:Não",
+      "dialog_node": "node_2_1585155747687"
+    },
+    {
+      "type": "standard",
+      "title": "Sim-Não-problemarespiratório",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Possui histórico de viagem em área afetada no local nos últimos\n14 dias OU teve contato próximo de caso CONFIRMADO ou SUSPEITO?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1585155684512",
+      "conditions": "@afirmativo-negativo:Sim || @afirmativo-negativo:Não",
+      "dialog_node": "node_3_1585155809754"
+    },
+    {
+      "type": "standard",
+      "title": "Sim-Febre",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Apresentou algum sintoma respiratório (tosse, dificuldade para respirar, produção de escarro, congestão nasal ou conjuntival, dificuldade para deglutir, dor de garganta, coriza, saturação de O2 < 95%, sinais de cianose, batimento de asa de nariz, tiragem intercostal e dispneia)?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585155626852",
+      "conditions": "@afirmativo-negativo:Sim",
+      "dialog_node": "node_9_1585155684512",
+      "previous_sibling": "node_3_1585155677399"
+    },
+    {
+      "type": "standard",
+      "title": "Não-Febre",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Possui algum sintoma respiratório (tosse, dificuldade para respirar, produção de escarro, congestão nasal ou conjuntival, dificuldade para deglutir, dor de garganta, coriza, saturação de O2 < 95%, sinais de cianose, batimento de asa de nariz, tiragem intercostal e dispneia)?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585155626852",
+      "conditions": "@afirmativo-negativo:Não",
+      "dialog_node": "node_3_1585155677399"
+    },
+    {
+      "type": "standard",
+      "title": "Não-ContatoDomiciliar",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Você não precisa procurar uma unidade de saúde devido a apenas tosse, coriza e mal-estar ou sensação de moleza no corpo ou apenas febre. O covid-19 é um tipo de gripe, então podem existir muitos sintomas em comum.\nFique atento aos sintomas e continue adotando as medidas gerais de prevenção e etiqueta respiratória. Caso se sinta mal e com dificuldades em respirar, procure uma unidade de saúde.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1585155892543",
+      "conditions": "@afirmativo-negativo:Não",
+      "dialog_node": "node_2_1585156067171",
+      "previous_sibling": "node_8_1585155970489"
+    },
+    {
+      "type": "standard",
+      "title": "Sim-ContatoDomiciliar",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com as definições da Secretaria de Vigilância em Saúde do Ministério da Saúde, você é um caso provável.  Fique atento aos sintomas e continue adotando as medidas gerais de prevenção e etiqueta respiratória. Caso se sinta mal e com dificuldades em respirar, procure uma unidade de saúde."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1585155892543",
+      "conditions": "@afirmativo-negativo:Sim",
+      "dialog_node": "node_8_1585155970489"
+    },
+    {
+      "type": "standard",
+      "title": "Não-ContatoViagem",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Teve contato domiciliar com caso CONFIRMADO nos últimos 14 dias?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1585155809754",
+      "conditions": "@afirmativo-negativo:Não",
+      "dialog_node": "node_2_1585155892543",
+      "previous_sibling": "node_10_1585155870130"
+    },
+    {
+      "type": "standard",
+      "title": "Sim-ContatoViagem",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com as definições da Secretaria de Vigilância em Saúde do Ministério da Saúde, você é um caso suspeito.  Fique atento aos sintomas e continue adotando as medidas gerais de prevenção e etiqueta respiratória. Caso se sinta mal e com dificuldades em respirar, procure uma unidade de saúde."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1585155809754",
+      "conditions": "@afirmativo-negativo:Sim",
+      "dialog_node": "node_10_1585155870130"
+    },
+    {
+      "type": "standard",
+      "title": "Eu estou preso no exterior, quem entrar em contato?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A Agência Nacional de Aviação Civil (ANAC) está disponibilizando um formulário online para receber informações de brasileiros que estão no exterior, mas não conseguem voltar ao Brasil em decorrência do cancelamento dos voos por conta do novo coronavirus."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#6.3travel_stucked",
+      "dialog_node": "6.3travel_stucked",
+      "previous_sibling": "6.2travel_ambassades",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Olá",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá, eu posso ajudá-lo em orientações gerais sobre o coronavírus no Brasil."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#general_Hello",
+      "dialog_node": "general_Hello",
+      "previous_sibling": "12.4.About_haine",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Como fazer gestos de barreira para limitar a propagação do vírus?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Existem passos simples para preservar sua saúde e a daqueles ao seu redor. Para se prevenir do Coronavírus (COVID-19):\n-Lave as mãos com frequência, com água e sabão. Ou então higienize com álcool em gel 70%.\n-Cubra seu nariz e boca com lenço ou COM O BRAÇO (e não com as mãos!) quando tossir ou espirrar.\n-Evite contato próximo com pessoas resfriadas ou que estejam com sintomas parecidos com os da gripe.\n-Quando estiver doente, fique em casa.\n-Evite tocar nos olhos, nariz e boca com as mãos não lavadas.\n-Não compartilhe objetos de uso pessoal (como talheres, toalhas, pratos e copos).\n-Evite aglomerações e mantenha os ambientes ventilados."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#2.1.Prevencao_info",
+      "dialog_node": "2.1.Prevencao_info",
+      "previous_sibling": "1.8sobreVirus_pesquisa_na_franca",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Qual é a pesquisa na Brasil em torno do COVID-19?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O presidente Jair Bolsonaro editou em 13 de Março de 2020 a Medida Provisória (MP) 924/20, que libera R$ 5,099 bilhões para o enfrentamento da crise de saúde pública provocada pelo novo coronavírus (Covid-19). Desse total, R$ 4,8 bilhões serão destinados ao Fundo Nacional de Saúde para ações coordenadas pelo Ministério da Saúde em parceria com os estados e municípios. Do restante, R$ 204 milhões serão destinados aos hospitais universitários federais (administrados pela Empresa Brasileira de Serviços Hospitalares) e R$ 57 milhões irão para o Hospital de Clínicas de Porto Alegre, que funciona em parceria com a Universidade Federal do Rio Grande do Sul (UFRGS), todos vinculados ao Ministério da Educação. Outros R$ 20 milhões serão liberados para a Fundação Oswaldo Cruz, principal instituto brasileiro de pesquisa em vacinas.  O Ministério da Saúde está realizando coletivas de imprensa para atualização da situação nacional por meio online."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#1.8sobreVirus_pesquisa_no_brasil",
+      "dialog_node": "1.8sobreVirus_pesquisa_na_franca",
+      "previous_sibling": "1.7sobreVirus_futuro",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Como posso ser preso para manter meus filhos presos?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Os empregadores são convidados a manter os salários em benefício de seus empregados tanto quanto possível, nesse caso eles pagam o salário até o topo sem esperar o pagamento de subsídios diários pelo seguro de saúde;  Se você não é um funcionário (autônomo ou agricultor), você denuncia sua parada diretamente no site dedicado. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#4.9.Quarentena.parartrabalho",
+      "dialog_node": "4.9.Quarentena.parartrabalho",
+      "previous_sibling": "4.9.Quarentena.escola",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "O que é o progresso do coronavirus no Mundo?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O CoV infecção pelo vírus-2 tem sido relatada na maioria dos países. Essas mudanças refletem a vontade de adaptar a resposta dependendo da evolução do spread do coronavírus nos diversos territórios. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#7.1globalcovid_spread",
+      "dialog_node": "7.1globalcovid_spread",
+      "previous_sibling": "6.3travel_stucked",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Avaliação Prévia",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Posso te ajudar! Lembrando que, trata-se de um avaliador e não pode ser substituído por um diagnóstico clínico feito por um profissional."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Teve febre acima de 37,8°?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#avaliacao-previa",
+      "dialog_node": "node_1_1585155626852",
+      "previous_sibling": "Bienvenue"
+    },
+    {
+      "type": "standard",
+      "title": "Estou no exterior, como entrar em contato?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O caminho para pedir ajuda são os consulados e as embaixadas. O Ministério das Relações Exteriores brasileiro disse que está trabalhando com consulados e embaixadas do mundo todo para conseguir auxiliar os cidadãos que estão presos nos países em que a circulação foi limitada e informa que criou o Grupo Especial de Crise para assuntos consulares e migratórios para ajudar diretamente cada caso. Nenhuma embaixada ou consulado brasileiro em nenhum país está fechado, mas pode estar funcionando em horários alternativos ou atendendo de forma remota, por telefone, Whatsapp ou e-mail."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#6.2travel_ambassades",
+      "dialog_node": "6.2travel_ambassades",
+      "previous_sibling": "6.1travel_ability",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Posso fazer atividades culturais durante o confinamento?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Os cinemas estão fechados, enquanto todos os eventos culturais e esportivos foram cancelados e reuniões públicas de mais de 100 pessoas foram proibidas nacionalmente. Esse número pode cair para 50 nas áreas mais afetadas (ordens da prefeitura). Museus, teatros, casas de ópera e piscinas também estão fechados. As academias também estão fechadas. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#4.9.Quarentena.lazer",
+      "dialog_node": "4.9.Quarentena.lazer",
+      "previous_sibling": "4.9.Quarentena.parartrabalho",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Que tratamento para Coronavirus?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nenhum tratamento antiviral específico é recomendado para infecção por COVID-19.  No caso do coronavírus, o Ministério da Saúde indica repouso e consumo de bastante água, além de algumas medidas adotadas para aliviar os sintomas, conforme cada caso, como, por exemplo:\nUso de medicamento para dor e febre (antitérmicos e analgésicos).                                                                                        \nUso de umidificador no quarto ou tomar banho quente para auxiliar no alívio da dor de garanta e tosse.\nAssim que os primeiros sintomas surgirem, é fundamental procurar ajuda médica imediata para confirmar diagnóstico e iniciar o tratamento."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#3.info_tratamentos",
+      "dialog_node": "3.info_tratamentos",
+      "previous_sibling": "3.1.Tratamento_vacina",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Pode me dar exemplos de perguntas?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O que é coronavírus ou COVID-19?  Como o vírus é transmitido?  Quem são os mais ameaçados? Como a Brasil age contra o COVID-19? Quanto tempo é o período de incubação? O vírus sofreu mutação? Como o COVID-19 evoluirá? Qual é a pesquisa na Brasil em torno do COVID-19? Como fazer gestos de barreira para limitar a propagação do vírus? Como desinfetar contra o COVID-19? Como lavar as mãos efetivamente? Uma máscara pode me proteger do COVID-19? Estou infectado com covid-19 se alguém que eu conheço está infeccioso? Existe uma vacina para Coronavirus? Que tratamento para Coronavirus? Quais são os sintomas do Coronavirus? Como tratar o Coronavirus? O que é falta de ar e como reagir? O que pode piorar a infecção? E se eu tiver o covid19?  Quem deve ser testado? O que é quarentena? Tenho acesso a visitas durante a quarentena? Posso sair durante a quarentena? Como fico em quarentena enquanto estou com minha família? Como trabalho quando estou em quarentena? Como está indo a quarentena para pessoas mais velhas? Eu volto do exterior em um país de alto risco, devo me colocar em quarentena? Posso trabalhar durante o confinamento? Posso fazer minhas compras enquanto estou preso? Posso ir para a escola durante o confinamento? Como posso ser preso para manter meus filhos presos? Posso fazer atividades culturais durante o confinamento? Quais são as regras de contenção? Que documentos são necessários para se locomover? Como faço para preencher o certificado dele?  Eu posso ir para o estrangeiro durante o confinamento? Estou no exterior, como entrar em contato? Eu estou preso no exterior, quem entrar em contato? O que é o progresso do coronavirus no Mundo? Por que falar com você de uma pandemia? Quem eu contato? Eu tenho uma perda auditiva, qual é o procedimento? Quais são as consequências econômicas para o Brasil? Há risco de escassez de drogas? Quem é você? Como vai você? Bonjour Até logo Obrigado "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#general_examples",
+      "dialog_node": "general_examples",
+      "previous_sibling": "node_9_1585152012113",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Uma máscara pode me proteger do COVID-19?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com o Ministério da Saúde, o uso da máscara de proteção é recomendado às pessoas que apresentam sintomas respiratórios, como tosse, espirros ou dificuldades em respirar.  A utilização serve para evitar a transmissão no coronavírus para as pessoas ao seu redor e no momento em que for procurar o atendimento médico.\n\nTambém é indicada para pessoas (incluindo familiares) que prestam atendimento aos indivíduos com suspeita ou confirmação de coronavírus.\n\nSaiba mais clicando aqui: \nhttps://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2020/03/saiba-quando-e-eficaz-utilizar-a-mascara-de-protecao"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#2.4.Macara",
+      "dialog_node": "2.4.Macara",
+      "previous_sibling": "2.3.Prevencao_como_lavar_maos",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Caso Suspeito",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com a Secretaria de Estado da Saúde, é um caso comunicado no sistema do Ministério da Saúde que se enquadra na definição estabelecida pela OMS. Lembrando: pacientes que apresentam sintomas respiratórios, como febre e tosse e viajaram para a China ou país com transmissão no território; pacientes que contataram alguém que viajou para este(s) destino (s) ou teve contato com um caso suspeito ou confirmado."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#caso-suspeito",
+      "dialog_node": "node_3_1585160723393",
+      "previous_sibling": "node_3_1585160588321"
+    },
+    {
+      "type": "standard",
+      "title": "O vírus sofreu mutação?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com os últimos dados científicos, existem duas cepas circulantes do vírus (L e S). A cepa S seria mais antiga que a cepa L. Nesta fase, não há evidências que confirmem se a mutação ocorreu em humanos ou hospedeiros intermediários (animais). Acredita-se que a cepa L seja a mais grave e frequente (70% das amostras testadas no estudo), enquanto a cepa S seria menos agressiva e menos freqüente (30% das amostras). Graças aos meios de detecção e medidas de controle do coronavírus, a circulação da cepa L, mais grave e, portanto, mais facilmente detectável, tende a diminuir. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#1.6sobreVirus_mutacao",
+      "dialog_node": "1.6sobreVirus_mutacao",
+      "previous_sibling": "1.5sobreVirus_Incubacao_Periodo",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Como trabalho quando estou em quarentena?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Se, durante a quarentena, um empregado cumpre todas as restrições e sua saúde não o impede de trabalhar, é possível que o empregador concorde em trabalhar de um lugar diferente do local de trabalho, podendo ser um trabalho remoto. Nos casos em que não é possível, é necessário fazer acordos com o empregador em relação a como proceder nessas situações."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#4.5.Quarentena_ajuda_social",
+      "dialog_node": "4.5.Quarentena_ajuda_social",
+      "previous_sibling": "4.4.Quarentena_vivendo_com_outros",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Estou infectado com covid-19 se alguém que eu conheço está infectado?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Caso você tenha tido contato com casos suspeitos, valem as dicas básicas de cuidados de prevenção e prestar atenção em eventuais sinais ou sintomas. Caso aconteça, é fundamental procurar um serviço de saúde.\n\nSaiba mais em:\nhttps://coronavirus.saude.gov.br/sobre-a-doenca#transmissao"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#2.3.Prevention_infeccao_contato",
+      "dialog_node": "2.3.Prevention_infeccao_contato",
+      "previous_sibling": "2.4.Macara",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Caso Excluído",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com a Secretaria de Estado da Saúde, é um caso comunicado no sistema do Ministério da Saúde que se não se enquadrou nas definições estabelecidas pela OMS."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#caso-excluido",
+      "dialog_node": "node_3_1585160588321",
+      "previous_sibling": "node_1_1585160621538"
+    },
+    {
+      "type": "standard",
+      "title": "O que é quarentena?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A quarentena é uma conduta prevista pelo Ministério da Saúde e que pode ser indicada pelo médico, a depender da condição clínica do paciente. Consiste basicamente em manter a restrição de contatos com pessoas e ambientes externos, para evitar a circulação do vírus. Se você for colocado em quarentena, é necessário estar em casa e seguir uma dieta saudável. Se sua saúde se deteriorar, é necessário ir a um hospital para avaliação. \n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#4.1.Quarentena_oque_e",
+      "dialog_node": "4.1.Quarentena_oque_e",
+      "previous_sibling": "3.8.Tratamento_testar_quem",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Comunicante - Caso confirmado",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com a Secretaria de Estado da Saúde, comunicantes próximos são familiares, profissionais de saúde que tenham prestado atendimento desprotegidos e pessoas que possam ter tido contato próximo com o caso confirmado para COVID-19. Os comunicantes não são considerados casos suspeitos se não apresentarem febre associada a sintomas respiratórios como tosse, coriza ou dificuldade para respirar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#comunicante-caso-confirmado",
+      "dialog_node": "node_1_1585160871730",
+      "previous_sibling": "node_3_1585160723393"
+    },
+    {
+      "type": "standard",
+      "title": "Quem eu contato?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A respostas por telefone as perguntas sobre o Coronavirus Covid-19 podem ser obtidas a qualquer momento. Cada cidade possui um número diferente para contato (0800). O call center não está autorizado a fornecer o conselho médico.  Se tiver sintomas (tosse, febre) que fazem pensar em Covid-19: I estadia em casa e evitar contatos com outras pessoas. Também pode se beneficiar de uma teleconsulta. Se os sintomas piorarem com dificuldade respiratória e sinais de asfixia, chame o SAMU 192."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#9.1contacts",
+      "dialog_node": "9.1contacts",
+      "previous_sibling": "7.2globalcovid_pandémique",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Como vai você?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu tento ser o mais útil possível para te ajudar em informações sobre o coronavírus. Se está tudo bem pra você, está tudo bem pra mim. "
+              },
+              {
+                "text": "Fico feliz em poder ajudar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#12.2.About_HowAreYou",
+      "dialog_node": "12.2.About_HowAreYou",
+      "previous_sibling": "12.1.About_WhoAreYou",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Quem é você?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Não sou uma pessoa real, sou um chatbot e meu nome é Isabella. Estou aqui para responder perguntas sobre coronavírus."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#12.1.About_WhoAreYou",
+      "dialog_node": "12.1.About_WhoAreYou",
+      "previous_sibling": "14.2Medecine_disruption",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Quem são os mais ameaçados?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A Organização Mundial da Saúde (OMS) considera que aqueles em risco de desenvolver uma forma grave de infecção pelo COVID-19 são:   - Pessoas com 70 anos ou mais (embora pacientes entre 50 e 70 anos precisem ser monitorados mais de perto);- Pacientes com insuficiência renal crônica de diálise, nyha III ou insuficiência cardíaca em estágio IV - Pacientes com cirrose estágio B pelo menos - Pacientes com histórico cardiovascular (ATCD): pressão alta, acidente vascular cerebral ou doença arterial coronariana ATCD, cirurgia cardíaca; - Diabéticos dependentes de insulina ou diabéticos com complicações secundárias à sua patologia (angiopatia micro ou macro); - Insuficiência respiratória crônica com oxigenoterapia ou asma ou fibrose cística ou qualquer patologia respiratória crônica que possa descompensar com uma infecção viral; - Pessoas com imunodepressão congênita ou adquirida (drogas: quimioterapia de câncer, quimioterapia imunossupressora, bioterapia e/ou terapia de corticosteróide suppressora, infecção descontrolada do HIV com CD4 -200/mm3, seguindo um órgão sólido ou transplante hematopoiético de células-tronco, com hemipatopatia maligna no curso do tratamento, com câncer metastático); - Gestantes do 3º trimestre - Pessoas com obesidade mórbida (índice de massa corporal - 40kg/m2: por analogia com influenza A (H1N1)     "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#1.3sobreVirus_GruposAltoRisco",
+      "dialog_node": "1.3sobreVirus_GruposAltoRisco",
+      "previous_sibling": "1.2sobreVirus_Transmissao",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Tenho acesso a visitas durante a quarentena?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Durante um período de quarentena, você não pode aceitar visitas, independentemente se estão no grupo de risco ou não."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#4.2.Quarentena_visitas",
+      "dialog_node": "4.2.Quarentena_visitas",
+      "previous_sibling": "4.1.Quarentena_oque_e",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Existe uma vacina para Coronavirus?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Até o momento, não. No entanto a Secretaria de Estado da Saúde afirma que cientistas ao redor do mundo e no Estado de São Paulo, como as equipes do Instituto Butantan, já iniciaram pesquisas para desenvolvimento de vacina. Ainda é precoce indicar se e quando ela estará disponível.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#3.1.Tratamento_vacina",
+      "dialog_node": "3.1.Tratamento_vacina",
+      "previous_sibling": "2.3.Prevention_infeccao_contato",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Quais são as consequências econômicas para o Brasil?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Na medida em que os casos confirmados de coronavírus cresciam e o mundo parando, as projeções para o Produto Interno Bruto (PIB) do Brasil em 2020 caíam, drasticamente. As previsões saíram de um crescimento de 2,5%  para uma recessão técnica, que são dois trimestres seguidos de resultados negativos, com retração do PIB. Agora a maioria das projeções são queda. Algumas, inclusive, apostam que o indicador deve ficar pior do que três anos atrás. Um a um, bancos, agências de risco, gestores e consultorias foram mudando de opinião, ficando cada vez mais comedidos e preocupados."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#14.1Economy_Impact",
+      "dialog_node": "14.1Economy_Impact",
+      "previous_sibling": "13.1.Businesssses_Law",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Caso Notificado",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com a Secretaria de Estado da Saúde, é um caso comunicado no sistema de monitoramento do Ministério da Saúde, abastecido diretamente pelas prefeituras. Pacientes com febre e pelo menos um sintoma respiratório, como tosse, dificuldade para respirar. Além disso, é necessário histórico de viagem em área de transmissão local, de acordo com a OMS ou Ministério da Saúde, nos últimos 14 dias anteriormente ao aparecimento de sintomas."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#caso-notificado",
+      "dialog_node": "node_4_1585159930684",
+      "previous_sibling": "node_1_1585162524153"
+    },
+    {
+      "type": "standard",
+      "title": "Eu tenho uma perda auditiva, qual é o procedimento?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Você pode obter informações no site do Ministério da Saúde sobre o coronavírus no site: https://coronavirus.saude.gov.br/.\nAlém disso, o Instituto Nacional de Educação dos Surdos divulgou um vídeo em libras sobre o vírus em: http://www.ines.gov.br/component/content/article?id=941"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#9.2contacts_malentendant",
+      "dialog_node": "9.2contacts_malentendant",
+      "previous_sibling": "9.1contacts",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Por que falar com você de uma pandemia?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Uma pandemia é uma epidemia em larga escala em mais continentes. Por isso, é uma doença com alta incidência sobre um vasto território (continente) durante um período de tempo.  No entanto, há uma repetição da influenza A, especialmente depois de uma mudança antigênica mais grave no vírus influenza (gripe espanhola, etc.). A propagação da SARS tratada a um custo considerável, também representa uma séria ameaça. Pandemia é uma epidemia em curso coronavírus CoV-2 (Covid-19 doenças) desde dezembro de 2019. Para a pandemia, a Organização Mundial de Saúde declarou 11 de março, 2020. No passado, as pandemias mundiais foram principalmente relacionadas com a gripe, e a peste, cólera ou tufão manchado. 80. 20. Century é um grande perigo para a pandemia da SIDA, o vírus HIV foi atingida por mais de 37 milhões de pessoas em 2018, principalmente a população da África sub-saariana."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#7.2globalcovid_pandémique",
+      "dialog_node": "7.2globalcovid_pandémique",
+      "previous_sibling": "7.1globalcovid_spread",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Caso Descartado",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com a Secretaria de Estado da Saúde, é um caso comunicado no sistema do Ministério da Saúde que se enquadra nas definições estabelecidas pela OMS, mas deu negativo para o novo coronavírus."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#caso-descartado",
+      "dialog_node": "node_1_1585160621538",
+      "previous_sibling": "node_9_1585160524168"
+    },
+    {
+      "type": "standard",
+      "title": "Como lavar as mãos efetivamente?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Lavar as mãos regularmente é um dos passos mais simples que você pode dar.   Primeiro com água e sabão. Para ser eficaz, o Instituto Nacional de Prevenção e Educação em Saúde (Inpes) recomenda que dure 30 segundos, esfregando o suficiente entre os dedos e as unhas para eliminar todos os germes. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#2.3.Prevencao_como_lavar_maos",
+      "dialog_node": "2.3.Prevencao_como_lavar_maos",
+      "previous_sibling": "2.2.Prevencao_desinfeccao",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "O que é coronavírus ou COVID-19",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Os coronavírus são uma grande família de vírus, que causam doenças que vão desde um simples resfriado (alguns vírus sazonais são Coronavírus) até condições mais graves, como MERS-COV ou SARS. O vírus identificado em janeiro de 2020 na China é um novo coronavírus. As primeiras pessoas a contrair o vírus foram ao mercado de Wuhan na província de Hubei, china. Uma doença transmitida pelo animal (zoonose) é, portanto, privilegiada, mas a origem não foi confirmada. A doença causada por esse coronavírus foi nomeada COVID-19 pela Organização Mundial da Saúde - OMS. Desde 11 de março de 2020, a OMS caracteriza a situação global do COVID-19 como uma pandemia; ou seja, a epidemia afeta agora 137 países em uma grande área."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#1.1sobreVirus_Oque_e",
+      "dialog_node": "1.1sobreVirus_Oque_e",
+      "previous_sibling": "node_1_1585155626852",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Obrigado ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Espero ter ajudado :) Se tiver outra pergunta, estou aqui!"
+              },
+              {
+                "text": "Ainda bem que ajudei. Quer me fazer outra pergunta?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#general_ThankYou",
+      "dialog_node": "general_ThankYou",
+      "previous_sibling": "general_ByeBye",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Quais são os sintomas do Coronavirus?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Os sinais e sintomas do coronavírus são principalmente respiratórios, semelhantes a um resfriado. Podem, também, causar infecção do trato respiratório inferior, como as pneumonias. No entanto, o coronavírus (SARS-CoV-2) ainda precisa de mais estudos e investigações para caracterizar melhor os sinais e sintomas da doença.\n \nOs principais são sintomas conhecidos até o momento são:\n\nFebre.\n\nTosse.\n\nDificuldade para respirar."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#3.3.Tratamentos_quais_os_sintomas",
+      "dialog_node": "3.3.Tratamentos_quais_os_sintomas",
+      "previous_sibling": "3.info_tratamentos",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Posso trabalhar durante o confinamento?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Se o trabalho remoto não for possível no setor, o empregador é obrigado a adaptar o trabalho para garantir a segurança."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#4.8.Quarentena.Trabalho",
+      "dialog_node": "4.8.Quarentena.Trabalho",
+      "previous_sibling": "4.7.Quarentena_Elegibilidade",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Eu volto do exterior em um país de alto risco, devo me colocar em quarentena?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O Ministério da Saúde recomenda que pessoas que voltaram de viagens internacionais, mesmo que não apresentem nenhum sintoma de gripe, permaneçam isoladas em casa por sete dias a partir da data da chegada ao Brasil."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#4.7.Quarentena_Elegibilidade",
+      "dialog_node": "4.7.Quarentena_Elegibilidade",
+      "previous_sibling": "4.6.Quarentena_Senior",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Quanto tempo é o período de incubação?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com a Secretaria de Estado da Saúde, período de incubação consiste no intervalo entre a data de contato com o vírus até o início dos sintomas. No caso do COVID-19, já se sabe que o vírus pode ficar incubado por até duas semanas (14 dias), quando os sintomas aparecem desde a infecção."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#1.5sobreVirus_Incubacao_Periodo",
+      "dialog_node": "1.5sobreVirus_Incubacao_Periodo",
+      "previous_sibling": "1.4sobreVirus_Crready",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Eu posso ir para o estrangeiro durante o confinamento?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Você deve:\n1) Evitar viagens a países com transmissão ativa local. É recomendado que viagens para países com transmissão local devam ser realizadas apenas em casos de efetiva necessidade.\n2) Verificar junto ao posto consular brasileiro (Representação consular ou Embaixada com serviços consulares) ou sites oficiais do país de destino quais as medidas recomendadas pelas autoridades de saúde locais.\n3) Adotar medidas de precaução padrão ao chegar ao exterior\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#6.1travel_ability",
+      "dialog_node": "6.1travel_ability",
+      "previous_sibling": "4.9.Quarentena.tempo",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Como o vírus é transmitido?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A doença é transmitida através das pequenas gotículas que se dão pelo espirro e tosse. O contato próximo com uma pessoa doente é, portanto, considerado necessário para transmitir a doença: mesmo local de vida, contato direto dentro de um metro durante uma tosse, espirro ou discussão na ausência de medidas protetivas.  Um dos vetores preferidos de transmissão do vírus é o contato com as mãos não lavadas. Até o momento, nenhuma contaminação pela água foi relatada. Esta doença é transmitida pelas vias respiratórias e provavelmente de animal para humano, mas a fonte ainda não foi identificada. Além disso, não há evidências de que animais domésticos desempenham um papel na disseminação do coronavírus, que causa o COVID-19 (fontes Da Oms, OMS e Anses). Finalmente, com base nas informações disponíveis, a transição do coronavírus COVID-19 de humanos para outra espécie animal atualmente parece improvável, e a possível contaminação de alimentos animais (DAOA) de um animal infectado com COVID-19 é excluído. Alimentos crus ou mal cozidos não apresentam nenhum risco particular de transmissão de infecções, desde que as regras de higiene boas usuais sejam seguidas no manuseio e preparo dos alimentos."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#1.2sobreVirus_Transmissao",
+      "dialog_node": "1.2sobreVirus_Transmissao",
+      "previous_sibling": "1.1sobreVirus_Oque_e",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Como fico em quarentena enquanto estou com minha família?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Se possível, reserve um quarto separado e isole-se de outros membros da família. Tanto para você quanto para os outros membros da família, regras de higiene mais rigorosas se aplicam a todos os membros da família e ao uso de equipamentos de proteção. Além disso, é necessário manter uma distância segura e evitar o toque físico."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#4.4.Quarentena_vivendo_com_outros",
+      "dialog_node": "4.4.Quarentena_vivendo_com_outros",
+      "previous_sibling": "4.3.Quarentena_vivendo_sozinho",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Como tratar o Coronavirus?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nenhum tratamento antiviral específico é recomendado para infecção por COVID-19.  No caso do coronavírus, o Ministério da Saúde indica repouso e consumo de bastante água, além de algumas medidas adotadas para aliviar os sintomas, conforme cada caso, como, por exemplo:\nUso de medicamento para dor e febre (antitérmicos e analgésicos).                                                                                        \nUso de umidificador no quarto ou tomar banho quente para auxiliar no alívio da dor de garanta e tosse.\nAssim que os primeiros sintomas surgirem, é fundamental procurar ajuda médica imediata para confirmar diagnóstico e iniciar o tratamento."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#3.4.tratamento_tratamento",
+      "dialog_node": "3.4.tratamento_tratamento",
+      "previous_sibling": "3.3.Tratamentos_quais_os_sintomas",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Posso fazer minhas compras enquanto estou preso?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Supermercados e mercearias permanecerão abertos. Seu fornecimento de alimentos e necessidades básicas será garantido nos próximos dias e semanas e as regras do trabalho noturno, em particular, serão relaxadas para as lojas. Portanto, não há risco de racionamento e o consumo excessivo preventivo deve ser evitado. Espaços culturais e lanchonetes do supermercado estarão fechados. Na rua e na loja, eu tenho que respeitar uma distância de 1 metro com as pessoas ao meu redor e implementar as barreiras de gestos antes de ir lá e ir para lá.  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#4.9.Quarentena.alimentos",
+      "dialog_node": "4.9.Quarentena.alimentos",
+      "previous_sibling": "4.8.Quarentena.Trabalho",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Caso Confirmado",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com a Secretaria de Estado da Saúde, é um caso comunicado no sistema do Ministério da Saúde que se enquadra nas definições estabelecida pela OMS, e apresentou resultados conclusivos para os exames realizados, com positividade para o novo coronavírus."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#caso-confirmado",
+      "dialog_node": "node_9_1585160524168",
+      "previous_sibling": "node_8_1585160445999"
+    },
+    {
+      "type": "standard",
+      "title": "Diagnóstico",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O diagnóstico é feito com a coleta de materiais respiratórios (aspiração de vias aéreas ou coleta de secreções da boca e nariz). O procedimento deve ser realizado para todos os casos suspeitos.\n\nAs amostras são encaminhadas com urgência para o Laboratório Central de Saúde Pública (Lacen), definido pelo Ministério da Saúde para cada região – no caso de São Paulo, é o Instituto Adolfo Lutz.\n\n "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#diagnostico",
+      "dialog_node": "node_1_1585162524153",
+      "previous_sibling": "node_1_1585160871730"
+    },
+    {
+      "type": "standard",
+      "title": "Surgimento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com o Ministério da Saúde, os primeiros casos foram identificados em meados da década de 1960. A OMS emitiu o primeiro alerta para a doença em 31 de dezembro de 2019, depois que autoridades chinesas notificaram casos de uma misteriosa pneumonia na cidade de Wuhan, metrópole chinesa com 11 milhões de habitantes."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#surgimento",
+      "dialog_node": "node_9_1585152012113",
+      "previous_sibling": "general_ThankYou"
+    },
+    {
+      "type": "standard",
+      "title": "Posso ir para a escola durante o confinamento?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Escolas, faculdades, escolas de ensino médio e universidades de todo o país fecham segunda-feira, pelo menos até as férias de primavera, afetando mais de 12 milhões de estudantes e 2,6 milhões de estudantes. Três a quatro horas de instrução por dia - exercícios online, \"aula virtual\" em videoconferência - devem ser oferecidas. Exames e competições de recrutamento são adiados.  Todos os estudantes de saúde que desejam oferecer assistência com gestão de crises podem reportar à sua Universidade (por exemplo, apoio aos call centers no dia 15)  Um serviço de puerivisão será criado departamento por departamento, para funcionários essenciais à gestão da crise de saúde. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#4.9.Quarentena.escola",
+      "dialog_node": "4.9.Quarentena.escola",
+      "previous_sibling": "4.9.Quarentena.alimentos",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Há risco de escassez de medicamentos?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A indústria farmacêutica global é altamente dependente das atividades de produção na Ásia. Se a epidemia continuasse por um longo período de tempo, os impactos na disponibilidade de certos medicamentos não seriam excluídos. O Ministério da Saúde e Solidariedade está acompanhando de perto a situação, com a ajuda da Agência Nacional de Segurança Médica. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#14.2Medecine_disruption",
+      "dialog_node": "14.2Medecine_disruption",
+      "previous_sibling": "14.1Economy_Impact",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Posso abrir?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Muitos municípios estão permitindo somente a abertura de comércios e serviços essenciais, como alimentação, abastecimento, saúde, bancos, limpeza e segurança. Estabelecimentos que servem alimentos e bebidas em mesas ou balcões só poderão atender pedidos por telefone ou serviços de entrega. Sendo assim, é necessário pesquisar quais medidas sua prefeitura e governo estadual estão adotando."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#13.1.Businesssses_Law",
+      "dialog_node": "13.1.Businesssses_Law",
+      "previous_sibling": "9.2contacts_malentendant",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "O que pode piorar a infecção?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tomar anti-inflamatórios (ibuprofeno, cortisona, etc.) pode ser um fator para o agravamento da infecção. Muitos programas e ensaios clínicos estão em andamento para melhorar o diagnóstico, a compreensão e o gerenciamento desta doença. Além disso, as equipes estão trabalhando em várias rotas de tratamento. Os protocolos começaram. Equipes também estão trabalhando para desenvolver uma vacina nos próximos meses."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#3.6.Tratamento_fatores_agravantes",
+      "dialog_node": "3.6.Tratamento_fatores_agravantes",
+      "previous_sibling": "3.5.Tratamento_faltaDeAr",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Como o COVID-19 evoluirá?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O presidente da República, Jair Bolsonaro, assinou Medida Provisória e Decreto também em 20 de março de 2020 que têm o objetivo de garantir a aquisição de bens, serviços e insumos destinados ao enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus. Entre outras determinações, regulamenta os serviços essenciais que não devem ser interrompidos durante o período de combate à doença, como assistência à saúde, atividades de segurança, transporte e telecomunicações. Além disso, para combater as Fake News sobre saúde, o Ministério da Saúde, de forma inovadora, disponibiliza um número de WhatsApp para envio de mensagens da população. O canal não é um SAC ou tira dúvidas dos usuários, mas um espaço exclusivo para receber informações virais, que serão apuradas pelas áreas técnicas e respondidas oficialmente se são verdade ou mentira.  O Ministério da Saúde está realizando coletivas de imprensa para atualização da situação nacional por meio online. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#1.7sobreVirus_futuro",
+      "dialog_node": "1.7sobreVirus_futuro",
+      "previous_sibling": "1.6sobreVirus_mutacao",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Como o Brasil age contra o COVID-19?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O presidente da República, Jair Bolsonaro, assinou Medida Provisória e Decreto também em 20 de março de 2020, que têm o objetivo de garantir a aquisição de bens, serviços e insumos destinados ao enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus. Entre outras determinações, regulamenta os serviços essenciais que não devem ser interrompidos durante o período de combate à doença, como assistência à saúde, atividades de segurança, transporte e telecomunicações.  As últimas informações até o momento:- As 34 mortes registradas oficialmente ao Ministério da Saúde estão nos estados de São Paulo (30) e Rio de Janeiro (4) - Subiu para 1.891 o número de casos confirmados de coronavírus (Covid-19) no Brasil, de acordo com as informações repassadas pelos estados ao Ministério da Saúde em 23 de março de 2020. - No dia 20 de março de 2020, o Ministério da Saúde reconheceu a transmissão comunitária da Covid-19 em todo o país  Encontre o plano de contigência nacional em: https://portalarquivos2.saude.gov.br/images/pdf/2020/fevereiro/13/plano-contingencia-coronavirus-COVID19.pdf "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#1.4sobreVirus_Crready",
+      "dialog_node": "1.4sobreVirus_Crready",
+      "previous_sibling": "1.3sobreVirus_GruposAltoRisco",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Quem deve fazer o teste?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A recomendação do Ministério da Saúde para os médicos é que eles primeiro avaliem o quadro clínico do paciente para depois buscar qual a melhor metodologia para checar qual a doença que o afeta. Os testes não são aplicados de forma geral e para todos os interessados. Na rede pública, até o começo de março, a recomendação é para investigação dos casos de pacientes com histórico de viagens a países com transmissão local e que apresentem ao menos dois sintomas (febre, dificuldade respiratória e/ou tosse). Os testes também podem ser oferecidos por hospitais e clínicas particulares. Caso exista recomendação médica, eles podem custar até R$ 140."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#3.8.Tratamento_testar_quem",
+      "dialog_node": "3.8.Tratamento_testar_quem",
+      "previous_sibling": "3.7.Tratamento_medico",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Caso Provável",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com a Secretaria de Estado da Saúde, é um caso comunicado no sistema do Ministério da Saúde que se enquadra nas definições estabelecidas pela OMS, mas apresentou resultados não conclusivos para os exames realizados. Nesse caso, os laboratórios de referência farão reanálise."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#caso-provavel",
+      "dialog_node": "node_8_1585160445999",
+      "previous_sibling": "12.2.About_HowAreYou"
+    },
+    {
+      "type": "standard",
+      "title": "Quais são as regras de contenção?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "É proibida a viagem exceto nos seguintes casos e somente na certificação (podeser download no site do governo) para:  - Mudar de casa para o trabalho quando o teletrabalho não é possível; - Fazer compras básicas em lojas de conveniência licenciadas; - Vá a um profissional de saúde - Viajar para o cuidado de crianças ou ajudar pessoas vulneráveis na condição estrita de respeitar os gestos de barreira; - Exercite-se apenas individualmente, em casa e sem qualquer reunião.   "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#4.9.Quarentena.tempo",
+      "dialog_node": "4.9.Quarentena.tempo",
+      "previous_sibling": "4.9.Quarentena.lazer",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "[NO DESAMBIGUATION]",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu entendo que você está chateado, a situação não é fácil para ninguém.  Eu posso ajudá-lo sobre esses tópicos "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#12.4.About_haine",
+      "dialog_node": "12.4.About_haine",
+      "previous_sibling": "node_4_1585159930684",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "E se eu tiver o @covid19? ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Se tiver os sintomas relacionados ao COVID-19: Fique em casa, evite contato, ligue para um médico antes de ir ao seu consultório ou ligue para o número de atendimento permanente de sua área.                \nDessa forma, no caso do novo coronavírus é indicado:\n– Repouso;\n– Hidratação (ingestão de bastante água e líquidos);\n– Medidas adotadas para aliviar os sintomas, conforme cada caso, como: uso de medicamento para dor e febre (antitérmicos e analgésicos); uso de umidificador no quarto; tomar banho quente para auxiliar no alívio da dor de garganta e tosse.\nPacientes com sintomas mais intensos podem ser hospitalizados. A definição compete ao médico responsável pelo caso."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#3.7.Tratamento_medico",
+      "dialog_node": "3.7.Tratamento_medico",
+      "previous_sibling": "3.6.Tratamento_fatores_agravantes",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Fora do escopo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu não entendi. Você pode tentar reformular."
+              },
+              {
+                "text": "Você pode dizer isso de forma diferente? Eu não entendi."
+              },
+              {
+                "text": "Eu não entendi o que você quis dizer."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Tout le reste",
+      "previous_sibling": "general_examples",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Como desinfetar contra o COVID-19?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Produtos de limpeza e desinfetantes comumente usados são eficazes contra o COVID-19.  Além da limpeza regular, as superfícies frequentemente afetadas com as mãos devem ser limpas e desinfetadas duas vezes ao dia, especialmente quando estão visivelmente sujas. Exemplos incluem maçanetas, botões de elevador, interruptores de iluminação, alças de banheiro, bancadas, superfícies de tela sensível ao toque e teclados.   Considere também desinfetar certos dispositivos cotidianos, por exemplo, limpar regularmente seus terminais (smartphones, tablets...) com um lenço desinfetante ou um pano levemente encharcado com uma solução antisséptica. Aconselhamos que você consulte os sites de seus fornecedores para não correr o risco de danificar suas telas.   Para informações, para o novo coronavírus (COVID-19), não é cientificamente confirmado até o momento que temperaturas mais altas seriam benéficas.  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#2.2.Prevencao_desinfeccao",
+      "dialog_node": "2.2.Prevencao_desinfeccao",
+      "previous_sibling": "2.1.Prevencao_info",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "O que é falta de ar e como reagir?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A falta de ar é caracterizada pelo desconforto ou dificuldade do ar chegar aos pulmões. O termo médico para falta de ar é dispneia. As pessoas descrevem a sensação de diferentes maneiras. Se você estiver com essa sensação frequentemente, o ideal é procurar um médico. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#3.5.Tratamento_faltaDeAr",
+      "dialog_node": "3.5.Tratamento_faltaDeAr",
+      "previous_sibling": "3.4.tratamento_tratamento",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Como está indo a quarentena para pessoas mais velhas?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "As visitas a idosos em casa e em instituições médicas e sociais estão suspensas. Menores de idade e doentes não podem mais acessar essas instalações, incluindo as maternidades. Por outro lado, os serviços de assistência domiciliar e de apoio continuam trabalhando com os mais vulneráveis quando necessário, seguindo sempre os procedimentos de higiene para evitar o contágio."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#4.6.Quarentena_Senior",
+      "dialog_node": "4.6.Quarentena_Senior",
+      "previous_sibling": "4.5.Quarentena_ajuda_social",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Até logo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Espero ter ajudado! Se precisar de mais informações sobre o covid-19, estou à disposição :')"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#general_ByeBye",
+      "dialog_node": "general_ByeBye",
+      "previous_sibling": "general_Hello",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Posso sair durante a quarentena?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Se você está em quarentena e está sozinho (não tem pais ou parentes conhecidos que possam comprar ou organizar as reivindicações necessárias), você pode usar a entrega ou outros serviços à distância. Se você não pode usá-los, você pode levar algum tempo, por exemplo, para comprar. Mas, mesmo neste caso, apelamos para ser o mais responsável em seu ambiente, seguindo as recomendações de higiene e evitar contato próximo com as pessoas."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#4.3.Quarentena_vivendo_sozinho",
+      "dialog_node": "4.3.Quarentena_vivendo_sozinho",
+      "previous_sibling": "4.2.Quarentena_visitas",
+      "disambiguation_opt_out": false
+    },
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá! Seja bem-vindo. Como posso ajudar? Aqui você pode ter orientações gerais sobre o coronavírus no Brasil.\n\nDiga \"autodiagnóstico\" para uma avaliação prévia do seu estado atual."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome || input.text.contains('#StartConversation#')",
+      "dialog_node": "Bienvenue",
+      "disambiguation_opt_out": true
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": false,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Minha pergunta não está na lista."
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "COVID BR GENERAL 20200322-1030",
+  "language": "pt-br",
+  "description": ""
+}
