@@ -1,5 +1,9 @@
 # Assistente Virtual sobre o coronavírus no Brasil
 
+O objetivo desse projeto é demonstrar o uso de inteligência artificial respondendo sobre COVID-19.
+
+As informações apresentadas pelo chatbot são meramente ilustrativas e não devem ser consideradas como recomendações médicas em hipótese alguma.
+
 ## Pré-requisitos
 
 1. Baixar e instalar o [Node.js](https://nodejs.org/en/)
